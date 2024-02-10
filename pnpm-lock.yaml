@@ -35,8 +35,8 @@ devDependencies:
     specifier: github:zeroknots/sentinellist
     version: github.com/zeroknots/sentinellist/1f9ec0250f1b3f14ba5d200629e3d9f3264fde61
   solady:
-    specifier: github:vectorized/solady
-    version: github.com/vectorized/solady/880ab6de8b4ee2ae51517bfd417a79e917675bb2
+    specifier: github:Vectorized/solady
+    version: github.com/Vectorized/solady/880ab6de8b4ee2ae51517bfd417a79e917675bb2
   solarray:
     specifier: github:sablier-labs/solarray
     version: github.com/sablier-labs/solarray/6bf10cb34cdace52a3ba5fe437e78cc82df92684
@@ -4092,8 +4092,8 @@ packages:
     version: 6.2.0
     dev: true
 
-  github.com/vectorized/solady/880ab6de8b4ee2ae51517bfd417a79e917675bb2:
-    resolution: {tarball: https://codeload.github.com/vectorized/solady/tar.gz/880ab6de8b4ee2ae51517bfd417a79e917675bb2}
+  github.com/Vectorized/solady/880ab6de8b4ee2ae51517bfd417a79e917675bb2:
+    resolution: {tarball: https://codeload.github.com/Vectorized/solady/tar.gz/880ab6de8b4ee2ae51517bfd417a79e917675bb2}
     name: solady
     version: 0.0.167
     dev: true
